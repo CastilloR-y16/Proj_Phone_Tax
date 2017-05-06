@@ -28,4 +28,3 @@ console.log(TOTAL_SPENDING_LIMIT);
 */
 console.log("log");
 }
-// end of document
